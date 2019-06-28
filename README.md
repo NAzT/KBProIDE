@@ -40,6 +40,7 @@ first run CMD as Administrator and install build tool first
 ## Run
 - npm run electron:serve
 
+
 ## Build
 - npm run electron:build
 
